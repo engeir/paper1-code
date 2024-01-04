@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.1](https://github.com/engeir/paper1-code/compare/v0.8.0...v0.8.1) (2024-01-04)
+
+
+### Bug Fixes
+
+* **build:** update name to mise from rtx ([434ef6f](https://github.com/engeir/paper1-code/commit/434ef6ff2d7e623f2c3a0dd884c02e62ca3972ba))
+
 ## [0.8.0](https://github.com/engeir/paper1-code/compare/v0.7.2...v0.8.0) (2024-01-04)
 
 
